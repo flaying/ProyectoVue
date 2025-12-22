@@ -1,5 +1,5 @@
 <template>
-  <h1>hola mundo desde vue</h1>
+  <h1>Hola mundo desde vue</h1>
   <p>{{ contador }}</p>
   <button @click="Incrementar">Incrementar</button>
     <button @click="Restar">Restar</button>
